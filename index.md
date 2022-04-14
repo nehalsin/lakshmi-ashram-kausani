@@ -3,10 +3,15 @@
 ## Abbreviations
 
 BG: Bhagavat Gita
+
 SB: Shrimad Bhagavatam
+
 MM: Mind Mapping
+
 NSR: Natural Solar Routine
+
 ZBL: Zero Budget Life
+
 HLM: Holistic Life Management
 
 ## Log 
@@ -14,7 +19,21 @@ HLM: Holistic Life Management
 ### Activities done so far
 
 1. **2022-04-12:** MM Introduction, BG Introduction, SB Introduction, Q/A on life in light of BG and SB. NSR, ZBL introduction in evening. 
+
+![IMG-20220412-WA0055](IMG-20220412-WA0055.jpg)
+
+![IMG-20220412-WA0056](IMG-20220412-WA0056.jpg)
+
+![IMG-20220412-WA0057](IMG-20220412-WA0057.jpg)
+
+![IMG-20220412-WA0058](IMG-20220412-WA0058.jpg)
+
 2. **2022-04-13:** Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
+
+![IMG-20220413-WA0031](IMG-20220413-WA0031.jpg)
+
+![IMG-20220413-WA0032](IMG-20220413-WA0032.jpg)
+
 3. **2022-04-15:** Yoga (standing asanas), HLM (life story) with David Bhai, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. 
 
 ### Activities in Pipeline
