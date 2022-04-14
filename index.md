@@ -2,17 +2,19 @@
 
 ## Abbreviations
 
-BG: Bhagavat Gita
+**BG**: Bhagavat Gita
 
-SB: Shrimad Bhagavatam
+**SB**: Shrimad Bhagavatam
 
-MM: Mind Mapping
+**MM**: Mind Mapping
 
-NSR: Natural Solar Routine
+**NSR**: Natural Solar Routine
 
-ZBL: Zero Budget Life
+**ZBL**: Zero Budget Life
 
-HLM: Holistic Life Management
+**HLM**: Holistic Life Management
+
+**40yp**: 40 Year Plan
 
 ## Log 
 
@@ -28,13 +30,11 @@ HLM: Holistic Life Management
 
 ![IMG-20220412-WA0058](IMG-20220412-WA0058.jpg)
 
-2. **2022-04-13:** Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
+2. **2022-04-13:** MM presentation, Sanskrit exhibition discussion with visitors. Bhagavat Gita exchange with senior lady in ashram. Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
 
 ![IMG-20220413-WA0031](IMG-20220413-WA0031.jpg)
 
-![IMG-20220413-WA0032](IMG-20220413-WA0032.jpg)
-
-3. **2022-04-15:** Yoga (standing asanas), HLM (life story) with David Bhai, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. 
+3. **2022-04-15:** Yoga (standing asanas), HLM (life story) with David Bhai, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40yp. 
 
 ### Activities in Pipeline
 
