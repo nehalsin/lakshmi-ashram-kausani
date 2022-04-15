@@ -38,7 +38,7 @@
 
 3. **2022-04-14:** Yoga (standing asanas), HLM (life story) with an old volunteer of Ashram, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40yp. Social Research Method BA Second Year. Naturopathy Aphorisms. SB stories. Apiary. 
 
-4. **2022-04-15:** BG 2.22, 2.23 AP, BG Holistic Session on BG, Education, Sanskrit Grammar etc with old volunteer of Ashram.
+4. **2022-04-15:** BG 2.22, 2.23 AP. BG Holistic Session on BG, Education, Sanskrit Grammar etc with old volunteer of Ashram.
 
 ### Activities in Pipeline
 
