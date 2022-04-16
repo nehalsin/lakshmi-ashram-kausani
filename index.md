@@ -20,6 +20,8 @@
 
 **OVA**: Old Volunteer of Ashram
 
+**EOP**: Economy of Permanence
+
 ## Activity Log
 
 1. **2022-04-12:** MM Introduction, BG Introduction, SB Introduction, Q/A on life in light of BG and SB. NSR, ZBL introduction in evening. 
@@ -40,7 +42,7 @@
 
 4. **2022-04-15:** Morning mountain walk with children. BG 2.22, 2.23 AP session. Holistic Session on BG, Education, Sanskrit Grammar etc with OVA. Evening mountain walk with an OVA. 
 
-5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi sowing. 
+5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi sowing. 
 
 ## Activities in Pipeline
 
