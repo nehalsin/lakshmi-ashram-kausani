@@ -18,9 +18,9 @@
 
 **40yp**: 40 Year Plan
 
-## Log 
+**OVA**: Old Volunteer of Ashram
 
-### Activities done so far
+## Activity Log
 
 1. **2022-04-12:** MM Introduction, BG Introduction, SB Introduction, Q/A on life in light of BG and SB. NSR, ZBL introduction in evening. 
 
@@ -32,15 +32,17 @@
 
 ![IMG-20220412-WA0058](IMG-20220412-WA0058.jpg)
 
-2. **2022-04-13:** MM presentation, Sanskrit exhibition discussion with visitors. Bhagavat Gita exchange with senior lady in ashram. Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
+2. **2022-04-13:** MM presentation, Sanskrit exhibition discussion with visitors. Bhagavat Gita exchange with OVA. Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
 
 ![IMG-20220413-WA0031](IMG-20220413-WA0031.jpg)
 
-3. **2022-04-14:** Yoga (standing asanas), HLM (life story) with an old volunteer of Ashram, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40yp. Social Research Method BA Second Year. Naturopathy Aphorisms. SB stories. Apiary. 
+3. **2022-04-14:** Yoga (standing asanas), HLM (life story) with an OVA, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40yp. Social Research Method BA Second Year. Naturopathy Aphorisms. SB stories. Apiary. 
 
-4. **2022-04-15:** BG 2.22, 2.23 AP. BG Holistic Session on BG, Education, Sanskrit Grammar etc with old volunteer of Ashram.
+4. **2022-04-15:** Morning mountain walk with children. BG 2.22, 2.23 AP session. Holistic Session on BG, Education, Sanskrit Grammar etc with OVA. Evening mountain walk with an OVA. 
 
-### Activities in Pipeline
+5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi sowing. 
+
+## Activities in Pipeline
 
 1. Seeds' naming
 2. Personal subject wise workshops
