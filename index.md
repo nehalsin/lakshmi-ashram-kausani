@@ -46,7 +46,7 @@
 
 5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi for sowing. MM discussion with an OVA. She liked Mango Channa pickle recipe. FOSS Movement Discussion with her. Real Education and inspiration to take Physics - Session with another OVA (our usual friend). EOP & 40YP session with Chair Person OVA ([PDF](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.pdf) | [JPG](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.jpg)). Watering in Garden. 
 
-6. **2022-04-17:** Discussion on actionable group meeting social change steps. 
+6. **2022-04-17:** Discussion on actionable group meeting social change steps. Biograph. Journey from Failure to Success. 
 
 ## Activities in Pipeline
 
