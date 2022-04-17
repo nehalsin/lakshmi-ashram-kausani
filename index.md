@@ -16,11 +16,13 @@
 
 **HLM**: Holistic Life Management
 
-**40yp**: 40 Year Plan
+**40YP**: 40 Year Plan
 
 **OVA**: Old Volunteer of Ashram
 
 **EOP**: Economy of Permanence
+
+**FOSS**: Free and Open Source Software
 
 ## Activity Log
 
@@ -38,11 +40,11 @@
 
 ![IMG-20220413-WA0031](IMG-20220413-WA0031.jpg)
 
-3. **2022-04-14:** Yoga (standing asanas), HLM (life story) with an OVA, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40yp. Social Research Method BA Second Year. Naturopathy Aphorisms. SB stories. Apiary. 
+3. **2022-04-14:** Yoga (standing asanas), HLM (life story) with an OVA, Sangeet Kaksha on BG in light of Ghantasala BG Gayan. Introduction to 40YP. Social Research Method BA Second Year. Naturopathy Aphorisms. SB stories. Apiary. 
 
 4. **2022-04-15:** Morning mountain walk with children. BG 2.22, 2.23 AP session. Holistic Session on BG, Education, Sanskrit Grammar etc with OVA. Evening mountain walk with an OVA. 
 
-5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi sowing. 
+5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi for sowing. MM discussion with an OVA. She liked Mango Channa pickle recipe. FOSS Movement Discussion with her. Real Education and inspiration to take Physics - Session with another OVA (our usual friend). EOP & 40YP session with Chair Person OVA. Watering in Garden. 
 
 ## Activities in Pipeline
 
