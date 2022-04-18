@@ -1,6 +1,8 @@
 # Lakshmi Ashram Kausani
 
-## Abbreviations
+## Abbreviations 
+
+<details markdown='1'><summary>Click to open!</summary>
 
 **BG**: Bhagavat Gita
 
@@ -24,9 +26,13 @@
 
 **FOSS**: Free and Open Source Software
 
+</details>
+
 ## Activity Log
 
 1. **2022-04-12:** MM Introduction, BG Introduction, SB Introduction, Q/A on life in light of BG and SB. NSR, ZBL introduction in evening. 
+
+<details markdown='1'><summary>Click to see images!</summary>
 
 ![IMG-20220412-WA0055](IMG-20220412-WA0055.jpg)
 
@@ -36,6 +42,12 @@
 
 ![IMG-20220412-WA0058](IMG-20220412-WA0058.jpg)
 
+</details>
+
+[Short Glimpse of BG Q/A](VID-20220412-01.mp4)
+
+[Short Glimpse of MM-BG-SB SESSION](VID-20220412-02.mp4)
+
 2. **2022-04-13:** MM presentation, Sanskrit exhibition discussion with visitors. Bhagavat Gita exchange with OVA. Live MM workshop on Introspection, life, inspiration from elders in ashram and questions to be answered. Hands-on Mathematics workshop covering basic concepts in Algebra, Fractions and Mensuration. Individual interaction on ZBL, impact of NSR on Women with respect to Menstrual Cycle. 
 
 ![IMG-20220413-WA0031](IMG-20220413-WA0031.jpg)
@@ -44,9 +56,22 @@
 
 4. **2022-04-15:** Morning mountain walk with children. BG 2.22, 2.23 AP session. Holistic Session on BG, Education, Sanskrit Grammar etc with OVA. Evening mountain walk with an OVA. 
 
-5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi for sowing. MM discussion with an OVA. She liked Mango Channa pickle recipe. FOSS Movement Discussion with her. Real Education and inspiration to take Physics - Session with another OVA (our usual friend). EOP & 40YP session with Chair Person OVA [PDF](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.pdf), [JPG](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.jpg). Watering in Garden. 
+   [Video](VID-20220415-01.mp4)
 
-6. **2022-04-17:** Discussion on actionable group meeting social change steps. Biograph. Journey from Failure to Success. 
+5. **2022-04-16:** Solution at level of Philosophy, Consciousness and Brain, State of Being - Session with OVA. EOP MM Factorisation Part-2. Learning how to send an e-mail. Gainthi (Air Potato) seed, Giloy, Pahadi Raw Haldi for sowing. MM discussion with an OVA. She liked Mango Channa pickle recipe. FOSS Movement Discussion with her. Real Education and inspiration to take Physics - Session with another OVA (our usual friend). EOP & 40YP session with Chair Person OVA in [PDF](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.pdf), [JPG](radhadidi-kantididi-eop-40yp-successfulexamples-2022-04-16.jpg) formats. Watering in Garden. 
+
+   EOP & 40YP SESSION VIDEOS: 
+- [VID-20220416-01](VID-20220416-01.mp4)
+- [VID-20220416-02](VID-20220416-02.mp4)
+- [VID-20220416-03](VID-20220416-03.mp4)
+- [VID-20220416-04](VID-20220416-04.mp4)
+- [VID-20220416-05](VID-20220416-05.mp4)
+- [VID-20220416-06](VID-20220416-06.mp4)
+- [VID-20220416-07](VID-20220416-07.mp4)
+
+6. **2022-04-17:** Discussion on actionable group meeting social change steps. Biograph. Journey from Failure to Success. Email sending, attaching photos with mail on phone, difference between Outbox and Sent in Gmail. Enabling Gboard, adding Hindi Keyboards, Voice typing practice on mail and WhatsApp. Writer plus apk and installation. Knoppix 8.6 working, backing up system, installing Knoppix 8.6 on hard drive, downloading latest Knoppix 9.1. 
+
+7. **2022-04-18:** Installing Knoppix 9.1 on hard drive. [Yog session](VID-20220418-01.mp4) with our friend OVA. FOSS & Knoppix Intro. 
 
 ## Activities in Pipeline
 
