@@ -85,7 +85,10 @@ Solution at level of Philosophy, Consciousness and Brain, State of Being - Sessi
 Discussion on actionable group meeting social change steps. Biograph. Journey from Failure to Success. Email sending, attaching photos with mail on phone, difference between Outbox and Sent in Gmail. Enabling Gboard, adding Hindi Keyboards, Voice typing practice on mail and WhatsApp. Writer plus apk and installation. Knoppix 8.6 working, backing up system, installing Knoppix 8.6 on hard drive, downloading latest Knoppix 9.1. 
 
 ### **2022-04-18** 
-Installing Knoppix 9.1 on hard drive. [Yog session](VID-20220418-01.mp4). FOSS & Knoppix Intro. Bhagavat references' talk. 
+Installing Knoppix 9.1 on hard drive. [Yoga session](VID-20220418-01.mp4). FOSS & Knoppix Intro. Bhagavat references' talk. Short session on life experiment. Hindi fonts installation. 
+
+### **2022-04-19**
+Knoppix 9.1 intro, WhatsApp back-up completion, photo transmission from phone to laptop, Hindi fonts in Libre Office. 
 
 ## Activities in Pipeline
 
