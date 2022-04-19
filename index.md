@@ -88,7 +88,7 @@ Discussion on actionable group meeting social change steps. Biograph. Journey fr
 Installing Knoppix 9.1 on hard drive. [Yoga session](VID-20220418-01.mp4). FOSS & Knoppix Intro. Bhagavat references' talk. Short session on life experiment. Hindi fonts installation. 
 
 ### **2022-04-19**
-Knoppix 9.1 intro, WhatsApp back-up completion, photo transmission from phone to laptop, Hindi fonts in Libre Office. 
+Knoppix 9.1 intro, WhatsApp back-up completion, photo transmission from phone to laptop, Hindi fonts' demonstration in Libre Office. 
 
 ## Activities in Pipeline
 
